@@ -35,35 +35,34 @@ Reach the end of the game in the fastest time possible.
 **Note : the possibility to use WASD or Arrow Keys have not been added**
 
 ### Level 1
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level1.jpg" alt="Alt Text" width="500">
 
 ### Level 2
-<img src="https://imgur.com/x7xsquF.jpg" alt="Level 1" width="500">
+<img src="./Img/level2.jpg" alt="Alt Text" width="500">
 
 ### Level 3
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level3.jpg" alt="Alt Text" width="500">
 
 ### Level 4
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level4.jpg" alt="Alt Text" width="500">
 
 ### Level 5
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level5.jpg" alt="Alt Text" width="500">
 
 ### Level 6
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level6.jpg" alt="Alt Text" width="500">
 
 ### Level 7
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level7.jpg" alt="Alt Text" width="500">
 
 ### Level 8
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level8.jpg" alt="Alt Text" width="500">
 
 ### Level 9
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
+<img src="./Img/level9.jpg" alt="Alt Text" width="500">
 
 ### Level 10
-<img src="https://i.imgur.com/7Vpax7A.jpg" alt="Level 1" width="500">
-
+<img src="./Img/level10.jpg" alt="Alt Text" width="500">
 
 ## About
 • The project assets and game content have not been included in this repository due to their size. The assets used are part of a larger pack, and to avoid unnecessary files, only the scripts have been pushed. <br>
