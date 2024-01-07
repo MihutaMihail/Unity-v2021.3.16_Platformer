@@ -78,3 +78,5 @@ You have reached the end, however, as simple as it might seem, you cannot just w
 • The project assets and game content have not been included in this repository due to their size. The assets used are part of a larger pack, and to avoid unnecessary files, only the scripts have been pushed. <br>
 
 • Pressing ESCAPE, will quit the game, there is not pause menu.
+
+• The game has no sound effects nor music.
