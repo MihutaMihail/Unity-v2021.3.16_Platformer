@@ -81,4 +81,4 @@ You have reached the end, however, as simple as it might seem, you cannot just w
 
 • The game has no sound effects or music.
 
-• _readme_readmeImg = this folder is not a part of the project. Its sole purpose is to stock the images that are inside the README.md (this goes for any _folderName in any project)
+• _readmeImg = this folder is not a part of the project. Its sole purpose is to stock the images that are inside the README.md (this goes for any _folderName in any project)
