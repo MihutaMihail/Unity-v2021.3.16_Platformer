@@ -79,4 +79,6 @@ You have reached the end, however, as simple as it might seem, you cannot just w
 
 • Pressing ESCAPE, will quit the game, there is not pause menu.
 
-• The game has no sound effects nor music.
+• The game has no sound effects or music.
+
+• _readmeImg = this folder is not a part of the project. Its sole purpose is to stock the images that are inside the README.md (this goes for any _folderName in any project)
