@@ -1,7 +1,7 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Demo](#demo)
+- [Demo Youtube](#demo-youtube)
 - [Usage](#usage)
 - [Features](#features)
 - [About](#about)
@@ -9,7 +9,8 @@
 ## Introduction
 Last year marks the creation of my first game using Unity. It is a timed platformer where you have to go through multiple rooms, each with their own challenge. This was a solo project except for a room that was given to us to integrate into the game. The textures, meshes, or any other asset, have NOT been made by me. This is part of a school project however everything that bas been added to the game has been chosen by me except that it had to be a platformer.
 
-## Demo
+## Demo Youtube
+#### Click on the image
 [![Watch the video](https://img.youtube.com/vi/SfqUuGNmkmY/maxresdefault.jpg)](https://www.youtube.com/watch?v=SfqUuGNmkmY)
 
 ## Features
